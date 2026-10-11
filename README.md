@@ -9,6 +9,12 @@ services plus Expo apps plus a few Python model services — needs three
 separate tools, three output formats, and three copies of the same
 allowlist today.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
